@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_blankFragment2_to_homeFragment" type="id" />
+    <item name="action_blankFragment3_to_homeFragment" type="id" />
+    <item name="action_dataFragment_to_homeFragment" type="id" />
+    <item name="action_BlankFragment1_to_homeFragment" type="id" />
+    <item name="action_blankFragment1_to_homeFragment" type="id" />
+</resources>
